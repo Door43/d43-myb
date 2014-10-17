@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myb:home|Door43 (myb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myb|d43-myb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myb/archive/master.zip|d43-myb.zip]]
+
+**Recent Changes**
+{{changes>ns = myb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myb|Ethnologue data]]
+
